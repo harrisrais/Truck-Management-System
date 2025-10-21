@@ -8,7 +8,7 @@ It enables logistics teams to manage **vehicles**, **jobs**, and **allocations**
 ## 📂 Project Structure
  
 ```
-TruckManagementSystem/
+TMS/
 │
 ├── graphql-api       # Backend GraphQL API built with Node.js & Apollo
 └── webapp            # Frontend web application built with Next.js & React
@@ -139,7 +139,7 @@ npm install
 **Frontend**
  
 ```bash
-cd ../webapp
+cd webapp
 npm install
 ```
  
@@ -206,3 +206,4 @@ This project is licensed under the **MIT License** — feel free to use and modi
 - 📡 WebSocket optimization
  
 ---
+
